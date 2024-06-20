@@ -11,7 +11,7 @@
 	<body>
 		<div id="TEI"></div>
 		<script>
-			filename = ( QueryString.doc == null )
+			filename = ( QueryString.doc != null )
 				? ( QueryString.doc + ".xml" )
 				: ( "texte.xml" );
 			var CETEIcean = new CETEI();
