@@ -4,7 +4,7 @@
 		<title>ceteicean test</title>
 		<meta charset="utf-8"/>
 		<link rel="stylesheet" href="css/CETEIcean.css"/>
-		<link rel="stylesheet" href="css/style.css"/>
+		<link rel="stylesheet" href="css/style2.css"/>
 		<script src="js/CETEI.js"></script>
 		<script src="js/querystring.js"></script>
 	</head>
@@ -14,8 +14,7 @@
 			var CETEIcean = new CETEI();
 			CETEIcean.addBehaviors({
 				"tei":{
-					"teiHeader": null,
-					"persName": [ "<a href=\"example.com\" target=\"_blank\">", "</a>" ]
+					"teiHeader": null
 				}
 			});
 			CETEIcean.getHTML5("data/"+QueryString.q, function(data) {
