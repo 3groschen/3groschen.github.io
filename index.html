@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html landg="en" xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<title>ceteicean test</title>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet" href="css/CETEIcean.css"/>
+		<link rel="stylesheet" href="css/style.css"/>
+		<script src="js/CETEI.js"></script>
+	</head>
+	<body>
+		<div id="TEI"></div>
+		<script>
+			var CETEIcean = new CETEI();
+			CETEIcean.addBehaviors({
+				"tei":{
+					"teiHeader": null,
+					"persName": [ "<a href=\"example.com\" target=\"_blank\">", "</a>" ]
+				}
+			});
+			CETEIcean.getHTML5("data/beispiel_brecht_tei.xml", function(data) {
+				document.getElementById("TEI").appendChild(data)
+			})
+		</script>
+	</body>
+</html>
