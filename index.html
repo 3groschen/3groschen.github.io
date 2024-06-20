@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html landg="en" xmlns="http://www.w3.org/1999/xhtml">
 	<head>
-		<title>ceteicean test</title>
+		<title>Texte zur Dreigroschenoper</title>
 		<meta charset="utf-8"/>
 		<link rel="stylesheet" href="css/CETEIcean.css"/>
 		<link rel="stylesheet" href="css/style.css"/>
@@ -11,14 +11,17 @@
 	<body>
 		<div id="TEI"></div>
 		<script>
+			filename = ( QueryString.doc == null )
+				? ( QueryString.doc + ".xml" )
+				: ( "texte.xml" );
 			var CETEIcean = new CETEI();
 			CETEIcean.addBehaviors({
 				"tei":{
 					"teiHeader": null,
-					"persName": [ "<a href=\"example.com\" target=\"_blank\">", "</a>" ]
+					"persName": [ "<a href=\"?doc=register&id=$rw@ref\">", "</a>" ]
 				}
 			});
-			CETEIcean.getHTML5("data/"+QueryString.q, function(data) {
+			CETEIcean.getHTML5("data/"+filename, function(data) {
 				document.getElementById("TEI").appendChild(data)
 			})
 		</script>
