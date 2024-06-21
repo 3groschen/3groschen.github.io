@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Titel</title>
+			<author>Autor</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>unveröffentlicht</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p source="https://example.com">Zitation</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+		<pb n="seite"/>
+		<cb n="spalte"/>
+
+		<head>...</head>
+		<p>...</p>
+		
+      </body>
+  </text>
+</TEI>
