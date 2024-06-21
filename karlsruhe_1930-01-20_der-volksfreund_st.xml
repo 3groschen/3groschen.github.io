@@ -1,35 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="style.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Die Dreigroschenoper</title>
-<author>F. D.</author>
-</titleStmt>
-<publicationStmt>
-<p>unveröffentlicht</p>
-</publicationStmt>
-<sourceDesc>
-
-<p source="https://www.deutsche-digitale-bibliothek.de/newspaper/item/BVX65IIFTMRSKGNMQ5WRQLLKKSA2N5X7?issuepage=3">Der Volksfreund: Tageszeitung für das werktätige Volk Mittelbadens, 20.01.1930, Seite 3</p>
-
-</sourceDesc>
-</fileDesc>
-</teiHeader>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Dreigroschenoper</title>
+				<author>F. D.</author>
+			</titleStmt>
+			<publicationStmt>
+				<p>unveröffentlicht</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p source="https://www.deutsche-digitale-bibliothek.de/newspaper/item/BVX65IIFTMRSKGNMQ5WRQLLKKSA2N5X7?issuepage=3">Der Volksfreund: Tageszeitung für das werktätige Volk Mittelbadens, 20.01.1930, Seite 3</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
 <text>
 <body>
-
-
 <pb n="1"/>
 <cb n="1"/>
-
 <head rend="fett" type="titel">Theater und Musik</head>
-
 <head rend="fett" type="untertitel">Badisches Landestheater</head>
 <head rend="fett" type="untertitel">Die Dreigroschenoper</head>
 
-<lb/><p>Von Hogarth, einem der berühmtesten englischen Kupferstecher
+<p>
+<lb/>Von Hogarth, einem der berühmtesten englischen Kupferstecher
 <lb/>und Maler, der z. Zt. Händels in London lebte, ist ein interessan-
 <lb/>ter pamphletisch gehaltener Kupferstich vorhanden, auf dem die da-
 <lb/>mals berüh,te Sängerin, die Italienerin Francesca Tuzzoni
@@ -70,10 +64,9 @@
 <lb/>die deutsche Bühne bearbeitet. Gibt es auch heite kein Räuber-
 <lb/>unwesen mehr, so hat die heutige kapitalistische Gesellschaft not-
 <lb/>gedrungen eine Folge von lichtscheuen Existenzen gezeitigt, die dem
-<lb/>Vagabundentum der damaligen Zeit zum mindesten ebenbürtig</p>
-<lb/>
+<lb/>Vagabundentum der damaligen Zeit zum mindesten ebenbürtig
 <cb n="2"/>
-<lb/><p>sind. Brecht hat, wie sein Bruder in Apoll John Gay, sich erlaubt, 
+<lb/>sind. Brecht hat, wie sein Bruder in Apoll John Gay, sich erlaubt, 
 <lb/>neben der Handlung den Zuschauern einen scharf geschliffenen Spie-
 <lb/>gel vorzuhalten, in dem ein Zeitbild mit allen seinen sozialen Aus-
 <lb/>wüchsen photographisch getreu, ohne irgend welche Retouche, gezeigt
@@ -82,8 +75,7 @@
 <lb/>die eingelegten, über 400 Jahre alten, Francois Billonballaden
 <lb/>und durch eigene, die Zeitverhältnisse. Er verflucht den sattgegessenen
 <lb/>Snob auszurütteln, ihm Verantwortungsbewußtsein beizubringen,
-<lb/>indem er ihm in den beliebten Jazzbandrythmen in die Ohren singt:</p>
-<lb/>
+<lb/>indem er ihm in den beliebten Jazzbandrythmen in die Ohren singt:
 <lb/><quote>Ihr Herren, die ihr uns lehrt, wie man brav leben
 <lb/>Und Sünd und Missetat vermeiden kann
 <lb/>Zuerst müßt ihr uns schon zu fressen geben,
@@ -91,17 +83,17 @@
 <lb/>Denn wovon lebt der Mensch? Indem es stündlich
 <lb/>Den Menschen peinigt, auszieht, anfällt, abwürdigt und frißt.
 <lb/>Nur dadurch lebt der Meshc, daß er so gründlich
-<lb/>Vergessen kann, daß er ein Mensch doch ist.</quote>
-<lb/>
-<lb/><p>Es ist allerdings keine silberne Blechlöffermoral, die von der 
+<lb/>Vergessen kann, daß er ein Mensch doch ist.</quote></p>
+<p>
+<lb/>Es ist allerdings keine silberne Blechlöffermoral, die von der 
 <lb/>Bühne ins Parkett gedrehorgelt wird, es sich furchtbare Anklagen
 <lb/>gegen die Gesellschaft, Anklagen, die wohl von der Kanzel und der
 <lb/>Volkstribüne schon erhoben wurden, aber nicht mit solch erschüt-
 <lb/>ternder Wahrhaftigkeit, wie sie das Zeittheater besonders für diese
 <lb/>Melodie gestimmt und zur Aufnahmefähigkeit bereit gemacht wor-
 <lb/>den sind.</p>
-
-<lb/><p>Die <title>Dreigroschenoper</title> ist keine Volksoper in dem romantischen
+<p>
+<lb/>Die <title>Dreigroschenoper</title> ist keine Volksoper in dem romantischen
 <lb/>Sinn wie bisher, sie sucht nicht durch die Fülle der Melodie abzu-
 <lb/>lenken, zu erheben und über den Alltag hinauszuführen. Sie steht
 <lb/>mit beiden Füßen mitten im Leben drinnen und hat auch dem etwas
@@ -111,8 +103,8 @@
 <lb/>rette, kein Schauspiel und kein Sketch, am ehesten könnte man sie 
 <lb/>noch Singspiel mit Balladeneinlagen nennen, wenn dadurch der 
 <lb/>tiefernste Charakter ihres Wesens gekennzeichnet werden kann.</p>
-<lb/>
-<lb/><p>Es hat sich zu Anfang der hiesigen Aufführung gezeigt, daß die
+<p>
+<lb/>Es hat sich zu Anfang der hiesigen Aufführung gezeigt, daß die
 <lb/>Herren und Damen des Parketts glaubten in einem lustigen Ka-
 <lb/>baret zu sein, wo man sich bemühte, sie zu amüsieren. Sie lachten
 <lb/>und kicherten, sie quittierten dankbar die Ohrfeigen, die ihnen von 
@@ -121,10 +113,9 @@
 <lb/>in so geistreich verschleiertem Gebilde geboten wurde, und die auch 
 <lb/>sie daran erinnerte, daß, wie es im Song heißt - nicht nur bei den
 <lb/>Aermsten der Armen die Christheit nichts vergibt.</p>
-<lb/>
-<lb/><p>Brecht und Weill haben unsern Schauspielern den Regisseuren
+<p>
+<lb/>Brecht und Weill haben unsern Schauspielern den Regisseuren
 <lb/>und Bühnenbildnern mir der <title>Dreigroschenoper</title> einen Happen hin-
-<lb/>
 <cb n="1"/>
 <lb/>geworfen, auf den sich alle gierig stürzten, denn sie spürten, daß er 
 <lb/>für sie das richtige Futter ist, an dem es schon lange den Moritatenton
@@ -173,8 +164,8 @@
 <lb/>gen wurde. Das Badische Landestheater hit mit der <title>Dreigroschen-
 <lb/>oper</title> ein Werk herausgebracht, das sich auch außerhalb des "Zeit-
 <lb/>theaters" viele Freunde erwerben wird.</p>
-<lb/>
-<lb/>													St.
+<p rend="rechts">
+<lb/>St.</p>
 </body>
 </text>
 </TEI>
