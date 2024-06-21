@@ -1,102 +1,122 @@
 /* CETEIcean stylesheet */
 
-tei-text {
+html {
+	background-color:#333;
+	margin:0;
+}
+
+tei-TEI {
 	width:36em;
+	padding:0.5em 1em;
+	margin:0;
+	background-color:#f0f0e8;
+}
+
+tei-TEI tei-text {
+	display:table;
+	margin:0 auto;
+}
+
+tei-text > * {
+	display:table-row;
 }
 
 /* Textabschnitte */
 
-tei-text tei-head[type="titel"] {
-	font-size:1.5em;
+tei-text tei-head {
+	margin:0;
+	padding:0;
 }
 
-tei-body tei-head[type="untertitel"] {
-	font-size:1.25em;
-}
-
-tei-p {
-	display:block;
+tei-text tei-p {
+	text-indent:1em;
+	margin:0;
+	padding:0;
 }
 
 /* Umbrüche: Seiten , Spalten, Zeilen */
 
-tei-pb:before {
+tei-text tei-pb:before,
+tei-text tei-cb:before {
 	display:block;
 	text-align:left;
-	content:"Seite "attr(n);
-	margin-top:0.5em;
-	border-top:0.1em solid #bbb;
 	font-family:sans-serif;
-	padding:0.2em;
 	font-size:0.75em;
+	line-height:0.75em;
 	color:#bbb;
+	letter-spacing:0;
+	text-indent:0;
 }
 
-tei-cb:before {
-	display:block;
-	text-align:left;
-	content:"Spalte "attr(n);
-	margin-top:0.5em;
-	border-top:0.1em dotted #bbb;
-	font-family:sans-serif;
-	padding:0.2em;
-	font-size:0.75em;
-	color:#bbb;
+tei-text tei-pb:before {
+	content:"[Seite "attr(n)"]";
 }
 
-tei-lb:before {
+tei-text tei-cb:before {
+	content:"[Spalte "attr(n)"]";
+}
+
+tei-text tei-lb:before {
 	display:block;
 	color:#bbb;
 }
 
 /* Formatierung */
 
-*[rend~="fett"] {
+tei-text *[rend~="fett"] {
 	font-weight:bold;
 }
 
-*[rend~="gesperrt"] {
+tei-text *[rend~="klein"] {
+	font-size:0.85rem
+}
+
+tei-text *[rend~="gross"] {
+	font-size:1.3rem
+}
+
+tei-text *[rend~="gesperrt"] {
 	letter-spacing:0.2em;
 	margin-left:0.1em;
 	margin-right:-0.1em;
 }
 
-*[rend~="zentriert"] {
+tei-text *[rend~="zentriert"] {
 	text-align:center;
+}
+
+tei-text *[rend~="rechts"] {
+	text-align:right;
 }
 
 /* Entitäten (Personen, Orte, Werke) */
 
-tei-persName {
-	text-decoration:underline 0.1em dotted #f66; /* rot */
-	
+tei-text tei-persName {
+	text-decoration:underline #f66 dotted 0.1em; /* rot */
 }
 
-tei-placeName {
-	text-decoration:underline 0.1em dotted #0c0; /* grün */
-	display:inline;
+tei-text tei-placeName {
+	text-decoration:underline #0c0 dotted 0.1em; /* grün */
 }
 
-tei-title {
-	text-decoration:underline 0.1em dotted #f3f; /* violett */
-	display:inline;
+tei-text tei-title {
+	text-decoration:underline #f3f dotted 0.1em; /* violett */
 }
 
-tei-date {
-	text-decoration:underline 0.1em dotted #33f; /* blau */
-	display:inline;
+tei-text tei-date {
+	text-decoration:underline #33f dotted 0.1em; /* blau */
 }
 
 /* Text vom Herausgeber */
 
-tei-note {
+tei-text tei-note {
 	font-family:sans-serif;
 	color:#bbb;
 }
 
-tei-note:before {
+tei-text tei-note:before {
 	content:"[";
 }
-tei-note:after {
+tei-text tei-note:after {
 	content:"]";
 }
