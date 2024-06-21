@@ -9,21 +9,24 @@
 				<p>unveröffentlicht</p>
 			</publicationStmt>
 			<sourceDesc>
-		 historische Zeitungen und Zeitschriften
+		 		<p>historische Zeitungen und Zeitschriften</p>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
 	<text>
 		<body>
 			<list>
-				<item xml:id="1929-03-12_wz_scherder">
+				<item xml:id="wien_1929-03-12_wz_scherder">
 					<bibl>Ferdinand Scherder: Die Dreigroschenoper, Wiener Zeitung, 12. März 1929 (Nr. 60), S. 1-2</bibl>
 				</item>
-				<item xml:id="1930-01-20_dv_st.">
-				<bibl>St.: Die Dreigroschenoper, Der Volksfreund: Tageszeitung für das werktätige Volk Mittelbadens, 20. Januar 1930, S. 3</bibl>
+				<item xml:id="karlsruhe_1930-01-20_der-volksfreund_st">
+					<bibl>St.: Die Dreigroschenoper, Der Volksfreund: Tageszeitung für das werktätige Volk Mittelbadens, 20. Januar 1930, S. 3</bibl>
 				</item>
-				<item xml:id="1930-06-13_ma_f.d.">
-				<bibl>F.D.: Die Dreigroschenoper, Münsterischer Anzeiger, 13. Juni 1930, S. 2</bibl>
+				<item xml:id="muenster_1930-06-13_ma_fd">
+					<bibl>F.D.: Die Dreigroschenoper, Münsterischer Anzeiger, 13. Juni 1930, S. 2</bibl>
+				</item>
+				<item xml:id="wien_1929-03-05_die-stunde">
+					<bibl>Jetzt kommt die «Dreigroschenoper» auch zu uns. Die Stunde [Wien], 5. März 1929, S. 7</bibl>
 				</item>
 			</list>
 		</body>
