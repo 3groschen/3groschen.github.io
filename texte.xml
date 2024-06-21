@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Texte zur Dreigroschenoper</title>
+			</titleStmt>
+			<publicationStmt>
+				<p>unveröffentlicht</p>
+			</publicationStmt>
+			<sourceDesc>
+		 historische Zeitungen und Zeitschriften
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<list>
+				<item xml:id="1929-03-12_wz_scherder">
+					<bibl>Ferdinand Scherder: Die Dreigroschenoper, Wiener Zeitung, 12. März 1929 (Nr. 60), S. 1-2</bibl>
+				</item>
+			</list>
+		</body>
+	</text>
+</TEI>

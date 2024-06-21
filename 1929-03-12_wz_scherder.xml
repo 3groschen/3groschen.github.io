@@ -19,15 +19,15 @@
 		<pb n="1"/>
 		<cb n="1"/>
 
-		<head rend="fett" type="titel">„<title>Die Dreigroſchenoper</title>“</head>
+		<head rend="fett zentriert" type="titel">„<title>Die Dreigroſchenoper</title>“</head>
 
-		<head rend="fett" type="untertitel">(„The Beggars opera.“)</head>
+		<head rend="fett zentriert" type="untertitel">(„The Beggars opera.“)</head>
 
 		<p rend="zentriert">
 		<lb/>Ein Stück mit Muſik in drei Akten nach dem engliſchen
 		<lb/>Original des <persName>John <hi rend="gesperrt">Gay</hi></persName>, überſetzt von <persName>Eliſabeth
 		<lb/><hi rend="gesperrt">Hauptmann</hi></persName>. Deutſche Bearbeitung von <persName>Bert <hi rend="gesperrt">Brecht</hi></persName>.
-		<lb/>Muſik von <persName ref="https://d-nb.info/gnd/118630202">Kurt <hi rend="gesperrt">Weill</hi></persName>.
+		<lb/>Muſik von <persName ref="#weill-kurt">Kurt <hi rend="gesperrt">Weill</hi></persName>.
 		</p>
 
 		<p rend="zentriert">

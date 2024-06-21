@@ -1,37 +1,29 @@
-/* Schrägstrich/Stern markiert Kommentartext, der vom Computer übersprungen wird */
+/* CETEIcean stylesheet */
 
 tei-text {
-	display:block; /* display: Anzeigen als Block (Blöcke werden übereinander "gestapelt"). */
-	width:25em; /* width: Breite. 1em ist die Breite eines "m". */
-	margin:1em 0 auto; /* margin: Breite des Randes. Bei zwei aufeinanderfolgenden Angaben ist die erste Angabe für den Rand oben/unten, die zweite für den Rand links/rechts. "auto" bedeutet hier: der frei bleibende Platz wird gleichmäßig verteilt. Hier bleibt Platz, weil das Element eine feste Breite hat (width). */
+	width:25em;
 }
 
 /* Textabschnitte */
 
-tei-head {
-	display:block;
-	text-align:center; /* text-align: Ausrichtung (hier zentriert). */
-	font-size:2em;/* font-size: Schriftgröße (hier etwas größer). */
-	margin:0.5em 0;
+tei-text tei-head[type="titel"] {
+	font-size:1.5em;
 }
 
-tei-head {
-	display:block;
-	text-align:center;
-	margin:0.5em 0;
+tei-body tei-head[type="untertitel"] {
+	font-size:1.25em;
 }
 
 tei-p {
 	display:block;
-	margin:0.5em 0;
 }
 
 /* Umbrüche: Seiten , Spalten, Zeilen */
 
 tei-pb:before {
 	display:block;
-	text-align:center;
-	content:"Seite "attr(nr);
+	text-align:left;
+	content:"Seite "attr(n);
 	margin-top:0.5em;
 	border-top:0.1em solid #bbb;
 	font-family:sans-serif;
@@ -42,8 +34,8 @@ tei-pb:before {
 
 tei-cb:before {
 	display:block;
-	text-align:center;
-	content:"Spalte "attr(nr);
+	text-align:left;
+	content:"Spalte "attr(n);
 	margin-top:0.5em;
 	border-top:0.1em dotted #bbb;
 	font-family:sans-serif;
@@ -60,15 +52,13 @@ tei-lb:before {
 /* Formatierung */
 
 *[rend~="fett"] {
-	/* "~=" heißt hier: "enthält", während "=" heißt: exakt gleich */
-	/* auf diese weise kann mischen, z.B.: format="fett zentriert" */
-	font-weight:bold; /* Schriftschnitt fett */
+	font-weight:bold;
 }
 
 *[rend~="gesperrt"] {
-	letter-spacing:0.2em; /* Letternabstand (Kerning oder Sperrung). */
-	margin-left:0.1em; /* Abstands-Ausgleich am Anfang der Sperrung. */
-	margin-right:-0.1em; /* Abstands-Ausgleich am Ende der Sperrung. */
+	letter-spacing:0.2em;
+	margin-left:0.1em;
+	margin-right:-0.1em;
 }
 
 *[rend~="zentriert"] {
@@ -78,7 +68,7 @@ tei-lb:before {
 /* Entitäten (Personen, Orte, Werke) */
 
 tei-persName {
-	text-decoration:underline 0.1em dotted #f66; /* text-decoration: "Verzierung" (hier: gepunktet unterstrichen rot). */
+	text-decoration:underline 0.1em dotted #f66; /* rot */
 	
 }
 
