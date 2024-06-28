@@ -37,6 +37,22 @@
 					<name>Kurt Weill</name>
 					<idno>https://d-nb.info/gnd/118630202</idno>
 				</person>
+				<person xml:id="hauptmann-elisabeth">
+					<name>Elisabeth Hauptmann</name>
+					<idno>https://d-nb.info/gnd/118546929</idno>
+				</person>
+				<person xml:id="villon-françois">
+					<name>François Villon</name>
+					<idno>https://d-nb.info/gnd/118627066</idno>
+				</person>
+				<person xml:id="kipling-rudyard">
+					<name>Rudyard Kipling</name>
+					<idno>https://d-nb.info/gnd/118562290</idno>
+				</person>
+				<person xml:id="engel-erich">
+					<name>Erich Engel</name>
+					<idno>https://d-nb.info/gnd/118684647</idno>
+				</person>
 			</listPerson>
 			<listPlaces>
 				<place>
