@@ -3,13 +3,23 @@
 html {
 	background-color:#333;
 	margin:0;
+	padding:2em;
 }
 
-tei-TEI {
+body {
 	width:36em;
+	background-color:#f0f0e8;
+	display:block;
+}
+
+div {
 	padding:0.5em 1em;
 	margin:0;
-	background-color:#f0f0e8;
+}
+
+/* TEI-Elemente */
+
+tei-TEI {
 }
 
 tei-TEI tei-text {
@@ -33,6 +43,18 @@ tei-text tei-p {
 	margin:0.25em;
 	padding:0;
 	text-indent:1em;
+}
+
+tei-text tei-list,
+tei-text tei-listPerson {
+	display:block;
+	list-style-type:disc;
+	list-style-position:outside;
+}
+
+tei-text tei-list tei-item,
+tei-text tei-listPerson tei-person {
+	display:list-item;
 }
 
 /* Umbrüche: Seiten , Spalten, Zeilen */

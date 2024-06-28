@@ -16,7 +16,7 @@
 	<text>
 		<body>
 			<listPerson>
-				<head>Personenregister</head>
+				<head>Personen</head>
 				<person xml:id="brecht-bertolt">
 					<name>Bertolt Brecht</name>
 					<idno>https://d-nb.info/gnd/118514768</idno>
@@ -33,6 +33,11 @@
 					<idno>https://d-nb.info/gnd/118630202</idno>
 				</person>
 			</listPerson>
+			<listPlaces>
+				<place>
+				...
+				</place>
+			</listPlaces>
 		</body>
 	</text>
 </TEI>
