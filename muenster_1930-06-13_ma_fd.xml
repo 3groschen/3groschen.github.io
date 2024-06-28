@@ -1,23 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="style.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Die Dreigroschenoper</title>
-<author>F. D.</author>
-</titleStmt>
-<publicationStmt>
-<p>unveröffentlicht</p>
-</publicationStmt>
-<sourceDesc>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Dreigroschenoper</title>
+				<editor>Münsterischer Anzeiger</editor>
+				<author>Heinz Bause</author>
+			</titleStmt>
+			<publicationStmt>
+				<p>Seminar Theaterkritiken</p>
+				<p>Universität Rostock</p>
+				<p>Sommersemester 2024</p>
+				<p>3groschen.github.io</p>
+			</publicationStmt>
+			<sourceDesc>
 
-<p source="https://www.deutsche-digitale-bibliothek.de/newspaper/item/V7LXM6UMUMNSENMV6BWTD6PQZEN2FK44?query=dreigroschenoper&amp;fromDay=19&amp;fromMonth=8&amp;fromYear=1928&amp;toDay=6&amp;toMonth=9&amp;toYear=1939&amp;page=7&amp;hit=17&amp;issuepage=2">Münsterischer Anzeiger, 13.Juni 1930, S. 2</p>
+				<p
+					source="https://www.deutsche-digitale-bibliothek.de/newspaper/item/V7LXM6UMUMNSENMV6BWTD6PQZEN2FK44?query=dreigroschenoper&amp;fromDay=19&amp;fromMonth=8&amp;fromYear=1928&amp;toDay=6&amp;toMonth=9&amp;toYear=1939&amp;page=7&amp;hit=17&amp;issuepage=2"
+					>Münsterischer Anzeiger, 13.Juni 1930, S. 2</p>
 
-</sourceDesc>
-</fileDesc>
-</teiHeader>
-<text>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:space="preserve">
 <body>
 
 

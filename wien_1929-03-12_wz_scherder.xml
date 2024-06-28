@@ -1,27 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-	<fileDesc>
-		<titleStmt>
-			<title>Die Dreigroschenoper</title>
-			<author>Ferdinand Scherder</author>
-		</titleStmt>
-		<publicationStmt>
-			<p>Seminar Theaterkritiken</p>
-			<p>Universität Rostock</p>
-			<p>Sommersemester 2024</p>
-			<p>3groschen.github.io</p>
-		</publicationStmt>
-		<sourceDesc>
-			<p source="https://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=19290312&amp;seite=2">Ferdinand Scherder: Die „Dreigroschenoper“. Wiener Zeitung, 12. März 1929 (Nr. 60), S. 1-2</p>
-		</sourceDesc>
-	</fileDesc>
-</teiHeader>
-<facsimile>
-	<graphic xml:id="facs_p1" url="https://digital.onb.ac.at/rep/access/ANNO_wrz19290312/image/1?size=,100"/>
-	<graphic xml:id="facs_p2" url="https://digital.onb.ac.at/rep/access/ANNO_wrz19290312/image/2?size=,100"/>
-</facsimile>
-<text xml:space="preserve">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Dreigroschenoper</title>
+				<editor>Wiener Zeitung</editor>
+				<author>Ferdinand Scherder</author>
+			</titleStmt>
+			<publicationStmt>
+				<p>Seminar Theaterkritiken</p>
+				<p>Universität Rostock</p>
+				<p>Sommersemester 2024</p>
+				<p>3groschen.github.io</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p
+					source="https://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=19290312&amp;seite=2"
+					>Ferdinand Scherder: Die „Dreigroschenoper“. Wiener Zeitung, 12. März 1929 (Nr.
+					60), S. 1-2</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile>
+		<graphic xml:id="facs_p1"
+			url="https://digital.onb.ac.at/rep/access/ANNO_wrz19290312/image/1?size=,100"/>
+		<graphic xml:id="facs_p2"
+			url="https://digital.onb.ac.at/rep/access/ANNO_wrz19290312/image/2?size=,100"/>
+	</facsimile>
+	<text xml:space="preserve">
 <body>
 <pb n="1" facs="#facs_p1"/>
 <cb n="a"/>
@@ -65,7 +71,7 @@
 <cb n="b"/>
 <lb/>(„<title>Der Liebling von London</title>“ mit Musik von <persName ref="heller-he">H. E.
 <lb/>Heller</persName>), ohne Glück damit zu haben. Dieses Glück
-<lb/>haben <persName ref="brecht-bertolt">Brecht</persName> und <persName ref="#weill-kurt">Weill</persName> jedesfalls <note>sic</note> gehabt. Die „<title>Drei-
+<lb/>haben <persName ref="brecht-bertolt">Brecht</persName> und <persName ref="#weill-kurt">Weill</persName> jedesfalls <note resp="#TR">sic</note> gehabt. Die „<title>Drei-
 <lb/>groschenoper</title>“ ist einer der stärksten Theatererfolge
 <lb/>in <placeName>Berlin</placeName>.</p>
 <p>

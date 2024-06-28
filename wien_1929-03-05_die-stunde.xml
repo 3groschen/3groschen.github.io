@@ -1,29 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-  <teiHeader>
-      <fileDesc>
-         <titleStmt>
-            <title>Jetzt kommt die Dreigroschenoper auch zu uns</title>
-			<author>unbekannt</author>
-         </titleStmt>
-         <publicationStmt>
-            <p>unveröffentlicht</p>
-         </publicationStmt>
-         <sourceDesc>
-         	<p source="https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19290305&amp;seite=7&amp;zoom=33">Jetzt kommt die «Dreigroschenoper» auch zu uns. Die Stunde [Wien], 5. März 1929, S. 7</p>
-         </sourceDesc>
-      </fileDesc>
-  </teiHeader>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Jetzt kommt die Dreigroschenoper auch zu uns</title>
+				<editor>Die Stunde [Wien]</editor>
+			</titleStmt>
+			<publicationStmt>
+				<p>Seminar Theaterkritiken</p>
+				<p>Universität Rostock</p>
+				<p>Sommersemester 2024</p>
+				<p>3groschen.github.io</p>
+			</publicationStmt>
+			<sourceDesc>
+				<p
+					source="https://anno.onb.ac.at/cgi-content/anno?aid=std&amp;datum=19290305&amp;seite=7&amp;zoom=33"
+					>Jetzt kommt die «Dreigroschenoper» auch zu uns. Die Stunde [Wien], 5. März
+					1929, S. 7</p>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
 	<facsimile>
-		<graphic xml:id="facs-07" url="https://digital.onb.ac.at/rep/access/ANNO_std19290305/image/7?size=,100"></graphic>
+		<graphic xml:id="facs-07"
+			url="https://digital.onb.ac.at/rep/access/ANNO_std19290305/image/7?size=,100"/>
 	</facsimile>
-  <text>
-      <body>
-		<pb n="7" facs="#facs-07"/>
-		<cb n="b"/>
+	<text xml:space="preserve">
+<body>
+<pb n="7" facs="#facs-07"/>
+<cb n="b"/>
 
-		<head>...</head>
-		<p>
+<head>...</head>
+<p>
 <lb/>Jetzt kommt die «Dreigroschen-
 <lb/>oper» auch zu uns
 <lb/>Samstag: Premiere im Raimund-Theater

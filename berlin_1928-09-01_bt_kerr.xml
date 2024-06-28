@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/css" href="style.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
-<teiHeader>
-<fileDesc>
-<titleStmt>
-<title>Die Dreigroschenoper</title>
-<author>Alfred Kerr</author>
-</titleStmt>
-<publicationStmt>
-<p>unveröffentlicht</p>
-</publicationStmt>
-<sourceDesc>
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Die Dreigroschenoper</title>
+				<author>Alfred Kerr</author>
+			</titleStmt>
+			<publicationStmt>
+				<p>unveröffentlicht</p>
+			</publicationStmt>
+			<sourceDesc>
 
-<p>Berliner Tageblatt, 01. September 1928, 57. Jahrgang, Abend Ausgabe</p>
+				<p>Berliner Tageblatt, 01. September 1928, 57. Jahrgang, Abend Ausgabe</p>
 
-</sourceDesc>
-</fileDesc>
-</teiHeader>
-<text>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text xml:space="preserve">
 <body>
 
 

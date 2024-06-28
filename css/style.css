@@ -150,14 +150,7 @@ tei-text tei-date {
 
 /* Text vom Herausgeber */
 
-tei-text tei-note {
+tei-text tei-note[resp] {
 	font-family:sans-serif;
 	color:#bbb;
-}
-
-tei-text tei-note:before {
-	content:"[";
-}
-tei-text tei-note:after {
-	content:"]";
 }
