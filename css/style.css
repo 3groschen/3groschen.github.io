@@ -24,28 +24,34 @@ tei-text > * {
 /* Textabschnitte */
 
 tei-text tei-head {
-	margin:0;
+	margin:0.25em;
 	padding:0;
+	font-family:inherit;
 }
 
 tei-text tei-p {
-	text-indent:1em;
-	margin:0;
+	margin:0.25em;
 	padding:0;
+	text-indent:1em;
 }
 
 /* Umbrüche: Seiten , Spalten, Zeilen */
 
+tei-text tei-pb,
+tei-text tei-cb {
+	margin:0;
+}
+
 tei-text tei-pb:before,
 tei-text tei-cb:before {
-	display:block;
 	text-align:left;
-	font-family:sans-serif;
+	font-family:arial, helvetica, sans-serif;
 	font-size:0.75em;
 	line-height:0.75em;
-	color:#bbb;
+	color:#aaa;
 	letter-spacing:0;
 	text-indent:0;
+	display:block;
 }
 
 tei-text tei-pb:before {
@@ -56,16 +62,21 @@ tei-text tei-cb:before {
 	content:"[Spalte "attr(n)"]";
 }
 
-tei-text tei-lb:before {
-	display:block;
-	color:#bbb;
+tei-text tei-p > tei-lb:after {
+	content:'';
+}
+
+tei-text tei-p > tei-lb ~ tei-lb:after {
+	content:'\a';
+}
+
+tei-text tei-pb tei-lb:after,
+tei-text tei-cb tei-lb:after
+{
+	content:'' !important;
 }
 
 /* Formatierung */
-
-tei-text *[rend~="fett"] {
-	font-weight:bold;
-}
 
 tei-text *[rend~="klein"] {
 	font-size:0.85rem
@@ -75,10 +86,18 @@ tei-text *[rend~="gross"] {
 	font-size:1.3rem
 }
 
+tei-text *[rend~="fett"] {
+	font-weight:bold;
+}
+
 tei-text *[rend~="gesperrt"] {
 	letter-spacing:0.2em;
 	margin-left:0.1em;
 	margin-right:-0.1em;
+}
+
+tei-text *[rend~="antiqua"] {
+	font-family:arial, helvetica, sans-serif;
 }
 
 tei-text *[rend~="zentriert"] {
