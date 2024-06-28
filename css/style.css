@@ -50,12 +50,20 @@ tei-text tei-listPerson {
 	display:block;
 	list-style-type:disc;
 	list-style-position:outside;
+	margin-left:1em;
 }
 
 tei-text tei-list tei-item,
 tei-text tei-listPerson tei-person {
 	display:list-item;
 }
+
+tei-text tei-list tei-head,
+tei-text tei-listPerson tei-head {
+	margin:0.25em;
+	padding:0;	
+}
+
 
 /* Umbrüche: Seiten , Spalten, Zeilen */
 

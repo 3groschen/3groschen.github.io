@@ -41,7 +41,7 @@
 					<name>Elisabeth Hauptmann</name>
 					<idno type="GND">118546929</idno>
 				</person>
-				<person xml:id="villon-françois">
+				<person xml:id="villon-francois">
 					<name>François Villon</name>
 					<idno type="GND">118627066</idno>
 				</person>
@@ -77,6 +77,28 @@
 					<name>Francesca cuzzoni</name>
 					<occupation>Sängerin (Barock)</occupation>
 				</person>
+			</listPerson>
+			<listPerson>
+				<head>Theaterkritiker</head>
+				<person xml:id="bause-heinz">
+					<name>Heinz Bause</name>
+					<occupation>Theaterkritiker (Münster)</occupation>
+				</person>
+				<person xml:id="kerr-alfred">
+					<name>Alfred Kerr</name>
+					<occupation>Theaterkritiker (Berlin)</occupation>
+				</person>
+				<person xml:id="scherder-ferdinand">
+					<name>Ferdinand Scherder</name>
+					<occupation>Theaterkritiker (Wien)</occupation>
+				</person>
+				<person xml:id="st--">
+					<name>St.</name>
+					<occupation>Theaterkritiker (Karlsruhe)</occupation>
+				</person>
+			</listPerson>
+			<listPerson>
+				<head>Schauspieler und Mitwirkende</head>
 				<person xml:id="schellenberg-margarete">
 					<name>Margarete Schellenberg</name>
 					<occupation>Theater (Karlsruhe)</occupation>
@@ -144,17 +166,6 @@
 				<person xml:id="brand-hermann">
 					<name>Hermann Brand</name>
 					<occupation>Theater (Karlsruhe)</occupation>
-				</person>
-			</listPerson>
-			<listPerson>
-				<head>Theaterkritiker</head>
-				<person xml:id="scherder-ferdinand">
-					<name>Ferdinand Scherder</name>
-					<occupation>Theaterkritiker</occupation>
-				</person>
-				<person xml:id="st--">
-					<name>St.</name>
-					<occupation>Theaterkritiker (Karlsruhe)</occupation>
 				</person>
 			</listPerson>
 		</body>

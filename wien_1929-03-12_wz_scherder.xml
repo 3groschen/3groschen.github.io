@@ -183,8 +183,8 @@
 <lb/>übrigens erprobt.</p>
 <p>
 <lb/>Ende lustig, alles gut.</p>
-<p rend="rechts">
-<lb/><persName ref="#scherder-ferdinand">Ferdinand <hi rend="gesperrt">Scherder</hi></persName>.</p>
+<signed rend="rechts">
+<lb/><persName ref="#scherder-ferdinand">Ferdinand <hi rend="gesperrt">Scherder</hi></persName>.</signed>
 <!-- Schlussstrich -->
 </body>
 </text>
