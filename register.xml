@@ -19,20 +19,22 @@
 				<head>Personen</head>
 				<person xml:id="brecht-bertolt">
 					<name>Bertolt Brecht</name>
+					<occupation>Dramatiker</occupation>
 					<idno>https://d-nb.info/gnd/118514768</idno>
 					<idno>https://de.wikipedia.org/wiki/Bertolt_Brecht</idno>
 				</person>
 				<person xml:id="clamus-georgy">
 					<name>Georgy Calmus</name>
-					<desc>Übersetzer der Beggars Opera von John Gay (1928), siehe https://d-nb.info/57322109X</desc>
+					<note>Übersetzer der Beggars Opera von John Gay (1928), siehe https://d-nb.info/57322109X</note>
 				</person>
 				<person xml:id="gay-john">
 					<name>John Gay</name>
+					<occupation>Dramatiker</occupation>
 					<idno></idno>
 				</person>
 				<person xml:id="scherder-ferdinand">
 					<name>Ferdinand Scherder</name>
-					<desc>Theaterkritiker in Wien</desc>
+					<occupation>Theaterkritiker</occupation>
 				</person>
 				<person xml:id="weill-kurt">
 					<name>Kurt Weill</name>
