@@ -9,17 +9,26 @@
 				<p>unveröffentlicht</p>
 			</publicationStmt>
 			<sourceDesc>
-            eigene Recherchen
+            	<p>eigene Recherchen</p>
          </sourceDesc>
 		</fileDesc>
 	</teiHeader>
 	<text>
 		<body>
 			<listPerson>
-				<head>Personenregister</head>
+				<head>Personen</head>
 				<person xml:id="brecht-bertolt">
 					<name>Bertolt Brecht</name>
 					<idno>https://d-nb.info/gnd/118514768</idno>
+					<idno>https://de.wikipedia.org/wiki/Bertolt_Brecht</idno>
+				</person>
+				<person xml:id="clamus-georgy">
+					<name>Georgy Calmus</name>
+					<desc>Übersetzer der Beggars Opera von John Gay (1928), siehe https://d-nb.info/57322109X</desc>
+				</person>
+				<person xml:id="gay-john">
+					<name>John Gay</name>
+					<idno></idno>
 				</person>
 				<person xml:id="scherder-ferdinand">
 					<name>Ferdinand Scherder</name>
@@ -28,7 +37,28 @@
 					<name>Kurt Weill</name>
 					<idno>https://d-nb.info/gnd/118630202</idno>
 				</person>
+				<person xml:id="hauptmann-elisabeth">
+					<name>Elisabeth Hauptmann</name>
+					<idno>https://d-nb.info/gnd/118546929</idno>
+				</person>
+				<person xml:id="villon-françois">
+					<name>François Villon</name>
+					<idno>https://d-nb.info/gnd/118627066</idno>
+				</person>
+				<person xml:id="kipling-rudyard">
+					<name>Rudyard Kipling</name>
+					<idno>https://d-nb.info/gnd/118562290</idno>
+				</person>
+				<person xml:id="engel-erich">
+					<name>Erich Engel</name>
+					<idno>https://d-nb.info/gnd/118684647</idno>
+				</person>
 			</listPerson>
+			<listPlaces>
+				<place>
+				...
+				</place>
+			</listPlaces>
 		</body>
 	</text>
 </TEI>
