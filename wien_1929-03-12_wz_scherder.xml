@@ -7,7 +7,10 @@
 			<author>Ferdinand Scherder</author>
 		</titleStmt>
 		<publicationStmt>
-			<p>unveröffentlicht</p>
+			<p>Seminar Theaterkritiken</p>
+			<p>Universität Rostock</p>
+			<p>Sommersemester 2024</p>
+			<p>3groschen.github.io</p>
 		</publicationStmt>
 		<sourceDesc>
 			<p source="https://anno.onb.ac.at/cgi-content/anno?aid=wrz&amp;datum=19290312&amp;seite=2">Ferdinand Scherder: Die „Dreigroschenoper“. Wiener Zeitung, 12. März 1929 (Nr. 60), S. 1-2</p>
@@ -58,20 +61,20 @@
 <lb/><persName ref="#calmus-georgy">Georgy Calmus</persName> hat <date>1912</date> die alte „<title>Bettleroper</title>“
 <lb/>gewissermaßen für die Allgemeinheit neu entdeckt
 <lb/>und mit einer historischen Einleitung herausgegeben.
-<lb/><persName>Felix Dörrmann</persName> machte das Sujet zu einer Operette
+<lb/><persName ref="#doerrmann-felix">Felix Dörrmann</persName> machte das Sujet zu einer Operette
 <cb n="b"/>
-<lb/>(„<title>Der Liebling von London</title>“ mit Musik von <persName>H. E.
+<lb/>(„<title>Der Liebling von London</title>“ mit Musik von <persName ref="heller-he">H. E.
 <lb/>Heller</persName>), ohne Glück damit zu haben. Dieses Glück
-<lb/>haben <persName>Brecht</persName> und <persName>Weill</persName> jedesfalls <note>sic</note> gehabt. Die „<title>Drei-
+<lb/>haben <persName ref="brecht-bertolt">Brecht</persName> und <persName ref="#weill-kurt">Weill</persName> jedesfalls <note>sic</note> gehabt. Die „<title>Drei-
 <lb/>groschenoper</title>“ ist einer der stärksten Theatererfolge
 <lb/>in <placeName>Berlin</placeName>.</p>
 <p>
-<lb/>Der Text von <persName>Brecht</persName> lehnt sich mehr an das Ori-
+<lb/>Der Text von <persName ref="#brecht-bertolt">Brecht</persName> lehnt sich mehr an das Ori-
 <lb/>ginal an, als es beim ersten Blick den Anschein hat.
 <lb/>Karikatur, Räuberromantik, Kriminalgeschichte,
-<lb/>Liebesabenteuer und Opernparodie sind nach <persName>Calmus</persName>
-<lb/>die Bestandteile des <persName>Gay</persName>schen Buches und sie sind es
-<lb/>auch des <persName>Brecht</persName>schen. Natürlich neuzeitlich aus-
+<lb/>Liebesabenteuer und Opernparodie sind nach <persName ref="#calmus-georgy">Calmus</persName>
+<lb/>die Bestandteile des <persName ref="#gay-john">Gay</persName>schen Buches und sie sind es
+<lb/>auch des <persName ref="#brecht-bertolt">Brecht</persName>schen. Natürlich neuzeitlich aus-
 <lb/>staffiert. Einige Tropfen sozialen Öls sind ein be-
 <lb/>liebtes und in solchem Falle auch billiges Schmier-
 <lb/>mittel, dazu eine Sprache, die weit derber ist als
@@ -125,37 +128,37 @@
 <lb/>Beweglichkeit, die hier notwendige gute Stimmen-
 <lb/>behandlung entschädigten für manche Bizzarrerie.</p>
 <p>
-<lb/>Als Gentlemanverbrecher ist <persName>Harald <hi rend="gesperrt">Pausien</hi></persName>
+<lb/>Als Gentlemanverbrecher ist <persName ref="#pausien-harald">Harald <hi rend="gesperrt">Pausien</hi></persName>
 <lb/>ganz ausgezeichnet. Er singt, spielt mit starkem
 <lb/>Temperament, kann auch gelegentlich seine akroba-
-<lb/>tische Gewandtheit zeigen. <persName>Kurt <hi rend="gesperrt">Lessen</hi></persName> vermag
+<lb/>tische Gewandtheit zeigen. <persName ref="#lessen-kurt">Kurt <hi rend="gesperrt">Lessen</hi></persName> vermag
 <lb/>aus einer flüchtig gezeichneten Revuefigur eine
 <lb/>Charakterfigur von eindringlicher Wirkung zu ge-
 <lb/>stalten. Vielleicht sieht er die ganze heitere Geschichte
-<lb/>zu ernst an. Vortrefflich <persName>Walter <hi rend="gesperrt">Brandt</hi></persName> als
+<lb/>zu ernst an. Vortrefflich <persName ref="#brandt-walter">Walter <hi rend="gesperrt">Brandt</hi></persName> als
 <lb/>riesiger knabenhafter Polizeichef, halb Frau halb
-<lb/>Knabe, vortrefflich die Banditen <persName><hi rend="gesperrt">Fischer-
+<lb/>Knabe, vortrefflich die Banditen <persName ref="#fischer-marich--"><hi rend="gesperrt">Fischer-
 <pb n="2" facs="#facs_p2"/>
 <cb n="a"/>
-<lb/>Marich</hi></persName>, <persName>Karl <hi rend="gesperrt">Ehmann</hi></persName>, <persName><hi rend="gesperrt">Straup</hi></persName>, <persName><hi rend="gesperrt">Simmerl</hi></persName>.
-<lb/><persName>Luli <hi rend="gesperrt">Hohenberg</hi></persName> sieht herzig aus, singt stellen-
+<lb/>Marich</hi></persName>, <persName ref="#ehmann-karl">Karl <hi rend="gesperrt">Ehmann</hi></persName>, <persName ref="#straup--"><hi rend="gesperrt">Straup</hi></persName>, <persName ref="#simmerl--"><hi rend="gesperrt">Simmerl</hi></persName>.
+<lb/><persName ref="#hohenberg-luli">Luli <hi rend="gesperrt">Hohenberg</hi></persName> sieht herzig aus, singt stellen-
 <lb/>weise gut charakterisierend. Der Rest ist charmante
-<lb/>Andeutung, Zusage für die Zukunft. <persName>Josefine
+<lb/>Andeutung, Zusage für die Zukunft. <persName ref="#gloeckner-josefine">Josefine
 <lb/><hi rend="gesperrt">Glöckner</hi></persName> bringt einen gemütvollen Wiener Volks-
 <lb/>stückton in das groteske Stück. Kleinere Rollen
-<lb/>finden in <persName>Elisabeth <hi rend="gesperrt">Markus</hi></persName>, <persName>Thea <hi rend="gesperrt">Braun-
+<lb/>finden in <persName ref="#markus-elisabeth">Elisabeth <hi rend="gesperrt">Markus</hi></persName>, <persName ref="#braun-fernwald-thea">Thea <hi rend="gesperrt">Braun-
 <lb/>Fernwald</hi></persName>, die zeigt, daß sie auch in Dessous
 <lb/>das Licht der Scheinwerfer nicht zu scheuen braucht,
 <lb/>sehr gute Darstellung.</p>
 <p>
-<lb/>Die Regie von <persName>Karlheinz <hi rend="gesperrt">Martin</hi></persName> flüchtet sich
-<lb/>manchmal unter die Fl+gel des „blauen Vogels“,
+<lb/>Die Regie von <persName ref="#martin-karlheinz">Karlheinz <hi rend="gesperrt">Martin</hi></persName> flüchtet sich
+<lb/>manchmal unter die Flügel des „blauen Vogels“,
 <lb/>hat aber auch einige aparte Lösungen, trifft vor
 <lb/>allem den Stil des Werkes sehr gut, selbst in kleinen
 <lb/>Details.</p>
 <p>
 <lb/>Ein Lob verdient wohl auch das Wiener <hi rend="gesperrt">Jazz-
-<lb/>sinfonieorchester</hi> unter Leitung von <persName>Norbert
+<lb/>sinfonieorchester</hi> unter Leitung von <persName ref="#gingold-norbert">Norbert
 <lb/>Gingold</persName>, das in den Hintergrund der Bühne ge-
 <lb/>drängt wird, zumeist in den Rücken der Darsteller
 <lb/>hineinspielt, ohne Kontakt mit ihnen ist, also keine
@@ -175,7 +178,7 @@
 <p>
 <lb/>Ende lustig, alles gut.</p>
 <p rend="rechts">
-<lb/><persName>Ferdinand <hi rend="gesperrt">Scherder</hi></persName>.</p>
+<lb/><persName ref="#scherder-ferdinand">Ferdinand <hi rend="gesperrt">Scherder</hi></persName>.</p>
 <!-- Schlussstrich -->
 </body>
 </text>
