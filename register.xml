@@ -17,65 +17,108 @@
 		<body>
 			<listPerson>
 				<head>Personen allgemein</head>
+
+				<person xml:id="bernacchi-antonio">
+					<name>Antonio Bernacchi</name>
+					<occupation>Sänger (Barock)</occupation>
+				</person>
+				
 				<person xml:id="brecht-bertolt">
 					<name>Bertolt Brecht</name>
 					<occupation>Dramatiker</occupation>
 					<idno type="GND">118514768</idno>
 					<idno type="wikipedia.de">Bertolt_Brecht</idno>
 				</person>
-				<person xml:id="clamus-georgy">
+				
+				<person xml:id="calmus-georgy">
 					<name>Georgy Calmus</name>
 					<note>Übersetzer der "Beggars Opera" von John Gay, siehe <ref
 							target="https://d-nb.info/57322109X"
 						>https://d-nb.info/57322109X</ref></note>
 				</person>
-				<person xml:id="gay-john">
-					<name>John Gay</name>
-					<occupation>Dramatiker</occupation>
+				
+				<person xml:id="cuzzoni-francesca">
+					<name>Francesca cuzzoni</name>
+					<occupation>Sängerin (Barock)</occupation>
 				</person>
-				<person xml:id="weill-kurt">
-					<name>Kurt Weill</name>
-					<idno type="GND">118630202</idno>
-				</person>
-				<person xml:id="hauptmann-elisabeth">
-					<name>Elisabeth Hauptmann</name>
-					<idno type="GND">118546929</idno>
-				</person>
-				<person xml:id="villon-francois">
-					<name>François Villon</name>
-					<idno type="GND">118627066</idno>
-				</person>
-				<person xml:id="kipling-rudyard">
-					<name>Rudyard Kipling</name>
-					<idno type="GND">118562290</idno>
-				</person>
+			<person xml:id="dumas-alexandre">
+				<name>Alexandre Dumas</name>
+				<idno type="GND">118528068</idno>
+			</person>
 				<person xml:id="engel-erich">
 					<name>Erich Engel</name>
 					<idno type="GND">118684647</idno>
 				</person>
-				<person xml:id="hogarth-william">
-					<name>William Hogarth</name>
-					<idno type="GND">118552805</idno>
-					<idno type="wikipedia.de">William_Hogarth</idno>
+				
+				<person xml:id="gay-john">
+					<name>John Gay</name>
+					<occupation>Dramatiker</occupation>
 				</person>
-				<person xml:id="wild-john">
-					<name>John Wild</name>
-					<idno type="GND">118552805</idno>
-					<idno type="wikipedia.de">William_Hogarth</idno>
-				</person>
+				
 				<person xml:id="haendel-georg-friedrich">
 					<name>Georg Friedrich Händel</name>
 					<idno type="GND">118544489</idno>
 					<idno type="wikipedia.de">Georg_Friedrich_Händel</idno>
 					<occupation>Komponist (Barock)</occupation>
 				</person>
-				<person xml:id="bernacchi-antonio">
-					<name>Antonio Bernacchi</name>
-					<occupation>Sänger (Barock)</occupation>
+				
+				<person xml:id="hauptmann-elisabeth">
+					<name>Elisabeth Hauptmann</name>
+					<idno type="GND">118546929</idno>
 				</person>
-				<person xml:id="cuzzoni-francesca">
-					<name>Francesca cuzzoni</name>
-					<occupation>Sängerin (Barock)</occupation>
+				
+				<person xml:id="hogarth-william">
+					<name>William Hogarth</name>
+					<idno type="GND">118552805</idno>
+					<idno type="wikipedia.de">William_Hogarth</idno>
+				</person>
+				
+				<person xml:id="kipling-rudyard">
+					<name>Rudyard Kipling</name>
+					<idno type="GND">118562290</idno>
+				</person>
+				<person xml:id="marlowe-christopher">
+					<name>Christopher Marlowe</name>
+					<idno typ="GND">118578065</idno>
+				</person>
+
+				<person xml:id="shakespeare-william">
+					<name>William Shakespeare</name>
+					<idno type="GND">118613723</idno>
+				</person>
+				<person xml:id="spoliansky-mischa">
+					<name>Mischa Spoliansky</name>
+					<idno type="GND">117485578</idno>
+				</person>
+				<person xml:id="swift-jonathan">
+					<name>Jonathan Swift</name>
+					<idno type="GND">118620193</idno>
+				</person>
+				<person xml:id="lenau-nikolaus">
+					<name>Nikolaus Lenau</name>
+					<idno type="GND">118571508</idno>
+				</person>
+				<person xml:id="villon-francois">
+					<name>François Villon</name>
+					<idno type="GND">118627066</idno>
+				</person>				
+				<person xml:id="weill-kurt">
+					<name>Kurt Weill</name>
+					<idno type="GND">118630202</idno>
+				</person>
+				
+				<person xml:id="wild-john">
+					<name>John Wild</name>
+					<idno type="GND">118552805</idno>
+					<idno type="wikipedia.de">William_Hogarth</idno>
+				</person>
+			</listPerson>
+			<listPerson>
+				<head>Bühnenbildner</head>
+				<person xml:id="neher-caspar">
+					<name>Caspar Neher</name>
+					<idno type="GND">118738356</idno>
+					<date>1897-1962</date>
 				</person>
 			</listPerson>
 			<listPerson>
@@ -166,6 +209,22 @@
 				<person xml:id="brand-hermann">
 					<name>Hermann Brand</name>
 					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="paulsen-harald">
+					<name>Harald Paulsen</name>
+					<idno type="GND">116065796</idno>
+				</person>
+				<person xml:id="kuehl-kate">
+					<name>Kate Kühl</name>
+					<idno type="GND">118725009</idno>
+				</person>
+				<person xml:id="fuerst-manfred">
+					<name>Manfred Kühl</name>
+					<idno type="GND">116846364</idno>
+				</person>
+				<person xml:id="neher-carola">
+					<name>Carola Neher</name>
+					<idno type="GND">118738348</idno>
 				</person>
 			</listPerson>
 		</body>
