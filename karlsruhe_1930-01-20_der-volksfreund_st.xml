@@ -4,17 +4,24 @@
 		<fileDesc>
 			<titleStmt>
 				<title>Die Dreigroschenoper</title>
-				<author>F. D.</author>
+				<editor>Der Volksfreund [Karlsruhe]</editor>
+				<author>St.</author>
 			</titleStmt>
 			<publicationStmt>
-				<p>unveröffentlicht</p>
+				<p>Seminar Theaterkritiken</p>
+				<p>Universität Rostock</p>
+				<p>Sommersemester 2024</p>
+				<p>3groschen.github.io</p>
 			</publicationStmt>
 			<sourceDesc>
-				<p source="https://www.deutsche-digitale-bibliothek.de/newspaper/item/BVX65IIFTMRSKGNMQ5WRQLLKKSA2N5X7?issuepage=3">Der Volksfreund: Tageszeitung für das werktätige Volk Mittelbadens, 20.01.1930, Seite 3</p>
+				<p
+					source="https://www.deutsche-digitale-bibliothek.de/newspaper/item/BVX65IIFTMRSKGNMQ5WRQLLKKSA2N5X7?issuepage=3"
+					>Der Volksfreund: Tageszeitung für das werktätige Volk Mittelbadens, 20.01.1930,
+					Seite 3</p>
 			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
-<text>
+	<text xml:space="preserve">
 <body>
 <pb n="1"/>
 <cb n="1"/>
@@ -23,11 +30,11 @@
 <head rend="fett" type="untertitel">Die Dreigroschenoper</head>
 
 <p>
-<lb/>Von Hogarth, einem der berühmtesten englischen Kupferstecher
-<lb/>und Maler, der z. Zt. Händels in London lebte, ist ein interessan-
+<lb/>Von <persName ref="#hogarth-william">Hogarth</persName>, einem der berühmtesten englischen Kupferstecher
+<lb/>und Maler, der z. Zt. <persName ref="#haendel-georg-friedrich">Händels</persName> in London lebte, ist ein interessan-
 <lb/>ter pamphletisch gehaltener Kupferstich vorhanden, auf dem die da-
-<lb/>mals berüh,te Sängerin, die Italienerin Francesca Tuzzoni
-<lb/>und ihr Landsmann, der Kastrat Bernacchi, mit großen Rechen Gold-
+	<lb/>mals berühmte Sängerin, die Italienerin <persName ref="#cuzzoni-francesca">Francesca Tuzzoni</persName>
+<lb/>und ihr Landsmann, der Kastrat <persName ref="#bernacchi-antonio">Bernacchi</persName>, mit großen Rechen Gold-
 <lb/>stücke zusammenraffen. Die märchenhaft hohen Sagen der Primadonnen
 <lb/>und Kastraten waren Schuld, daß die Operntheater in London ihren
 <lb/>Betrieb einstellen mußten. Dazu kam noch eine Opernmüdigkeit
@@ -39,34 +46,35 @@
 <lb/>räuberwesen hatte überhand genommen und niemand war mehr
 <lb/>seiner Haut sicher. Die Räuber hatten sich mit der wohlorganisier-
 <lb/>ten englischen Bettlergesellschaft zu einer Zunft vereinigt. Ihr
-<lb/>Führer war John Wild, ein Aufseher des großen Gefängsnisses
+<lb/>Führer war <persName ref="#wild-john">John Wild</persName>, ein Aufseher des großen Gefängsnisses
 <lb/>Rewgate in London, der mit Meister der Bettlergesellschaft
 <lb/>unter einer Decke steckte. Es kam zum Konflikt, um durch ihn die 
 <lb/>seinen ersten Verbrecher an den Galgen bracht, um durch ihn die 
 <lb/>40 Pfund zu verdienen, welche nach englischen Gesetz dem Ein-
 <lb/>bringer einer Hauptverbrechens zukommen. Diese Tragödie wurde
-<lb/>1728 von John Gay als Vorwurf für seine Bettleroper benützt.
-<lb/>Gleich dem gefürchteten Satiriker Swift, der das Gebahren der 
+<lb/>1728 von <persName ref="#gay-john">John Gay</persName> als Vorwurf für seine Bettleroper benützt.
+<lb/>Gleich dem gefürchteten Satiriker <persName ref="#swift-jonathan">Swift</persName>, der das Gebahren der 
 <lb/>großen englischen Gesellschaft in seinen "Gullivers Reisen" lächer-
-<lb/>lich machte, nahm Gay das Schicksal, das Wild erreichte, als Unter-
+<lb/>lich machte, nahm <persName ref="#gay-john">Gay</persName> das Schicksal, das Wild erreichte, als Unter-
 <lb/>lage zu einer Satire, die die Kehrseite des prunkenden Adels und
 <lb/>seiner Anhängerschaft zeigte. Im Vorwort zur Bettleroper läßt
-<lb/>John Gay seinen Bettler sagen: ... durch das ganze Stück wird
+<lb/><persName ref="#gay-john">John Gay</persName> seinen Bettler sagen: ... durch das ganze Stück wird
 <lb/>man bemerken eine solche Gleichartigkeit in Sitten der Hohen und
 <lb/>Niederen, daß es schwer zu entscheiden ist, ob der Hochgeborene den
 <lb/>Herrn Straßenräuber nachahmt, oder der Herr Straßenräuber den 
 <lb/>Herrn Hochgeborenen... Es zeigt, daß die niederen Volksklassen
 <lb/>ihre Laster haben in gleichem Grade wie die Reichen: und daß
 <lb/>sie dafür bestraft werden.</p>
-<lb/><p>Mit genialer Sicherheit und Verständnis für das, was in unse-
-<lb/>rer Zeit begriffen wird, haben Brecht und Weill die Bettleroper,
+<p>
+<lb/>Mit genialer Sicherheit und Verständnis für das, was in unse-
+<lb/>rer Zeit begriffen wird, haben <persName ref="#brecht-bertolt">Brecht</persName> und <persName ref="#weill-kurt">Weill</persName> die Bettleroper,
 <lb/>die vor 10 Jahren in London neu aufgemacht herauskam, auch für
 <lb/>die deutsche Bühne bearbeitet. Gibt es auch heite kein Räuber-
 <lb/>unwesen mehr, so hat die heutige kapitalistische Gesellschaft not-
 <lb/>gedrungen eine Folge von lichtscheuen Existenzen gezeitigt, die dem
 <lb/>Vagabundentum der damaligen Zeit zum mindesten ebenbürtig
 <cb n="2"/>
-<lb/>sind. Brecht hat, wie sein Bruder in Apoll John Gay, sich erlaubt, 
+<lb/>sind. <persName ref="#brecht-bertolt">Brecht</persName> hat, wie sein Bruder in Apoll <persName ref="#gay-john">John Gay</persName>, sich erlaubt, 
 <lb/>neben der Handlung den Zuschauern einen scharf geschliffenen Spie-
 <lb/>gel vorzuhalten, in dem ein Zeitbild mit allen seinen sozialen Aus-
 <lb/>wüchsen photographisch getreu, ohne irgend welche Retouche, gezeigt
@@ -114,7 +122,7 @@
 <lb/>sie daran erinnerte, daß, wie es im Song heißt - nicht nur bei den
 <lb/>Aermsten der Armen die Christheit nichts vergibt.</p>
 <p>
-<lb/>Brecht und Weill haben unsern Schauspielern den Regisseuren
+<lb/><persName ref="#brecht-bertolt">Brecht</persName> und <persName ref="#weill-kurt">Weill</persName> haben unsern Schauspielern den Regisseuren
 <lb/>und Bühnenbildnern mir der <title>Dreigroschenoper</title> einen Happen hin-
 <cb n="1"/>
 <lb/>geworfen, auf den sich alle gierig stürzten, denn sie spürten, daß er 
@@ -127,45 +135,45 @@
 <lb/>innerlicher Hingabe gemimt worden, wie bei der Erstaufführung
 <lb/>der <title>Dreigroschenoper</title>, die einen ganz ungewöhnlichen Erfolg er-
 <lb/>zielte. Aus dem Bettlerkönig, der seinen Brüdern Prothesen leiht
-<lb/>und sie zum Betteln abrichtet, hat Hermann <persName rend="gesperrt">Brand</persName> eine mythische
+<lb/>und sie zum Betteln abrichtet, hat <persName ref="#brand-hermann">Hermann <hi rend="gesperrt">Brand</hi></persName> eine mythische
 <lb/>Gestalt gemacht. Seine Songs trugen den Stempel blutigen Ern-
-<lb/>stes. Sie erschütterten. Hermine <persName rend="gesperrt">Ziegler</persName> war eine von Alkohol
+<lb/>stes. Sie erschütterten. <persName ref="#ziegler-hermine">Hermine <hi rend="gesperrt">Ziegler</hi></persName> war eine von Alkohol
 <lb/>und Korsettfetzen umhüllte Lumpenkönigin, die in ihren Chansons
 <lb/>den Ton traf, den die Gosse liebt. Aus tiefer Ehe sproßte das zarte
-<lb/>Töchterchen Polly, das sich weder Brecht noch Weill so anmutig und
-<lb/>liebreizend haben erträumen können, wie es ihnen Elisabeth
-<lb/><persName rend="gesperrt">Bertram</persName> verköperte. Mit seiner Stimme sang sie die Songs
+<lb/>Töchterchen Polly, das sich weder <persName ref="#brecht-bertolt">Brecht</persName> noch <persName ref="#weill-kurt">Weill</persName> so anmutig und
+<lb/>liebreizend haben erträumen können, wie es ihnen <persName ref="#bertram-elisabeth">Elisabeth
+<lb/><hi rend="gesperrt">Bertram</hi></persName> verköperte. Mit seiner Stimme sang sie die Songs
 <lb/>süß, leichtsinnig und dann wieder mit derartig starker dramatischer
-<lb/>Pointierung, daß man an Noette <persName rend="gesperrt">Guilbert</persName> in ihrer besten Zeit er-
-<lb/>innert wurde. Als Macheath der Banditenführer zeigte Alfons
-<lb/><persName rend="gesperrt">Kloeble</persName> Lebensgröße, es ist nicht nur Schauspieler erster Ord-
+<lb/>Pointierung, daß man an <persName ref="#guilbert-noette">Noette <hi rend="gesperrt">Guilbert</hi></persName> in ihrer besten Zeit er-
+<lb/>innert wurde. Als Macheath der Banditenführer zeigte <persName ref="#kloeble-alfons">Alfons
+<lb/><hi rend="gesperrt">Kloeble</hi></persName> Lebensgröße, es ist nicht nur Schauspieler erster Ord-
 <lb/>nung, sondern auch wirtlicher Chanssonier, zu dem ihn seine über-
-<lb/>reichen Mittel befähigen. Kelly <persName rend="gesperrt">Rademacher</persName> war derb und 
+<lb/>reichen Mittel befähigen. <persName ref="#rademacher-kelly">Kelly <hi rend="gesperrt">Rademacher</hi></persName> war derb und 
 <lb/>zungenfertig als Lucy. Tränenweich, herzlich im Ton verkörperte
-<lb/>Fritz <persName rend="gesperrt">Herz</persName> den schönen gerundeten Polizeichef. In der von Dich-
-<lb/>ter ausgezeichnet geformten kleinen Rolle der Spelunkenjenny bot
-<lb/>Lilly <persName rend="gesperrt">Jank</persName> auch tänzerisch ausgezeichnetes. Die Platte von Stra-
-<lb/>ßenbanditen, Paul <persName rend="gesperrt">Gemmede</persName>, Paul <persName rend="gesperrt">Müller</persName>, Friedrich
-<lb/><persName rend="gesperrt">Prüter</persName>, Josef <persName rend="gesperrt">Grötzinger</persName>, Eugen <persName rend="gesperrt">Kalnbach</persName> und Biftor
-<lb/>Hofbach boten einen Hintergrund, wie er vollendeter wohl nicht
-<lb/>gegeben werden kann. Weills Musik verhilft dem Werke zu seiner
+<lb/><persName ref="#herz-fritz">Fritz <hi rend="gesperrt">Herz</hi></persName> den schönen gerundeten Polizeichef. In der von Dich-
+<lb/>ter ausgezeichnet geformten kleinen Rolle der <persName>Spelunkenjenny</persName> bot
+<lb/><persName ref="jank-lilly">Lilly <hi rend="gesperrt">Jank</hi></persName> auch tänzerisch ausgezeichnetes. Die Platte von Stra-
+<lb/>ßenbanditen, <persName ref="#gemmede-paul">Paul <hi rend="gesperrt">Gemmede</hi></persName>, <persName>Paul <hi rend="gesperrt">Müller</hi></persName>, <persName ref="#prueter-friedrich">Friedrich
+<lb/><hi rend="gesperrt">Prüter</hi></persName>, <persName ref="#groetzinger-josef">Josef <hi rend="gesperrt">Grötzinger</hi></persName>, <persName ref="#kalnbach-eugen">Eugen <hi rend="gesperrt">Kalnbach</hi></persName> und <persName ref="#hofbach-biftor">Biftor
+<lb/>Hofbach</persName> boten einen Hintergrund, wie er vollendeter wohl nicht
+<lb/>gegeben werden kann. <persName ref="#weill-kurt">Weills</persName> Musik verhilft dem Werke zu seiner
 <lb/>Vollkommenheit. Er weiß mit seiner kleinen charakteristischen Or-
 <lb/>chersterbegleitung zu untermalen, gegen Schluss zu erhöhen, dann
 <lb/>wieder romatisch zu kommen, Bitternisse, Herbheiten auszudenken, 
 <lb/>durch wunderbare Melodik wieder zu versöhnen, kuru genial das
-<lb/>zu illustrieren, was Brecht sagen will. Josef <persName rend="gesperrt">Keilberth</persName> hat
+<lb/>zu illustrieren, was Brecht sagen will. <persName ref="#keilberth-josef">Josef <hi rend="gesperrt">Keilberth</hi></persName> hat
 <lb/>ganz meisterlich als Dirigent und Pianist seinen schwierigen Posten
-<lb/>ausgefüllt. Felix <persName rend="gesperrt">Baumbach</persName> hat mit dem Bühnenbildner am laufenden Band - 
-<lb/>es gab nur eine Pause - hat Torsten <persName rend="gesperrt">Hecht</persName> eine Szenerie ge-
+<lb/>ausgefüllt. <persName ref="#baumbach-felix">Felix <hi rend="gesperrt">Baumbach</hi></persName> hat mit dem Bühnenbildner am laufenden Band - 
+<lb/>es gab nur eine Pause - hat <persName ref="#hecht-torsten">Torsten <hi rend="gesperrt">Hecht</hi></persName> eine Szenerie ge-
 <lb/>schaffen, die in  ihrer Einfachheit befruchtender auf die Phantasie
-<lb/>wirkte, als alle künstlerisch impressionistischen Einfälle. Margarete
-<lb/><persName rend="gesperrt">Schellenberg</persName> ein besonderes Lob für ihren Cul de Paris, der 
+<lb/>wirkte, als alle künstlerisch impressionistischen Einfälle. <persName ref="#schellenberg-margarete">Margarete
+<lb/><hi rend="gesperrt">Schellenberg</hi></persName> ein besonderes Lob für ihren Cul de Paris, der 
 <lb/>von allen weiblichen Mitwirkenden mit schmissiger Eleganz getra-
 <lb/>gen wurde. Das Badische Landestheater hit mit der <title>Dreigroschen-
 <lb/>oper</title> ein Werk herausgebracht, das sich auch außerhalb des "Zeit-
 <lb/>theaters" viele Freunde erwerben wird.</p>
-<p rend="rechts">
-<lb/>St.</p>
+<signed rend="rechts">
+<lb/><persName ref="st--">St.</persName></signed>
 </body>
 </text>
 </TEI>

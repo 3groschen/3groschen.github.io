@@ -9,57 +9,224 @@
 				<p>unveröffentlicht</p>
 			</publicationStmt>
 			<sourceDesc>
-            	<p>eigene Recherchen</p>
-         </sourceDesc>
+				<p>eigene Recherchen</p>
+			</sourceDesc>
 		</fileDesc>
 	</teiHeader>
 	<text>
 		<body>
 			<listPerson>
-				<head>Personen</head>
+				<head>Personen allgemein</head>
+
+				<person xml:id="bernacchi-antonio">
+					<name>Antonio Bernacchi</name>
+					<occupation>Sänger (Barock)</occupation>
+				</person>
+				
 				<person xml:id="brecht-bertolt">
 					<name>Bertolt Brecht</name>
-					<idno>https://d-nb.info/gnd/118514768</idno>
-					<idno>https://de.wikipedia.org/wiki/Bertolt_Brecht</idno>
+					<occupation>Dramatiker</occupation>
+					<idno type="GND">118514768</idno>
+					<idno type="wikipedia.de">Bertolt_Brecht</idno>
 				</person>
-				<person xml:id="clamus-georgy">
+				
+				<person xml:id="calmus-georgy">
 					<name>Georgy Calmus</name>
-					<desc>Übersetzer der Beggars Opera von John Gay (1928), siehe https://d-nb.info/57322109X</desc>
+					<note>Übersetzer der "Beggars Opera" von John Gay, siehe <ref
+							target="https://d-nb.info/57322109X"
+						>https://d-nb.info/57322109X</ref></note>
 				</person>
+				
+				<person xml:id="cuzzoni-francesca">
+					<name>Francesca cuzzoni</name>
+					<occupation>Sängerin (Barock)</occupation>
+				</person>
+			<person xml:id="dumas-alexandre">
+				<name>Alexandre Dumas</name>
+				<idno type="GND">118528068</idno>
+			</person>
+				<person xml:id="engel-erich">
+					<name>Erich Engel</name>
+					<idno type="GND">118684647</idno>
+				</person>
+				
 				<person xml:id="gay-john">
 					<name>John Gay</name>
-					<idno></idno>
+					<occupation>Dramatiker</occupation>
+				</person>
+				
+				<person xml:id="haendel-georg-friedrich">
+					<name>Georg Friedrich Händel</name>
+					<idno type="GND">118544489</idno>
+					<idno type="wikipedia.de">Georg_Friedrich_Händel</idno>
+					<occupation>Komponist (Barock)</occupation>
+				</person>
+				
+				<person xml:id="hauptmann-elisabeth">
+					<name>Elisabeth Hauptmann</name>
+					<idno type="GND">118546929</idno>
+				</person>
+				
+				<person xml:id="hogarth-william">
+					<name>William Hogarth</name>
+					<idno type="GND">118552805</idno>
+					<idno type="wikipedia.de">William_Hogarth</idno>
+				</person>
+				
+				<person xml:id="kipling-rudyard">
+					<name>Rudyard Kipling</name>
+					<idno type="GND">118562290</idno>
+				</person>
+				<person xml:id="marlowe-christopher">
+					<name>Christopher Marlowe</name>
+					<idno typ="GND">118578065</idno>
+				</person>
+
+				<person xml:id="shakespeare-william">
+					<name>William Shakespeare</name>
+					<idno type="GND">118613723</idno>
+				</person>
+				<person xml:id="spoliansky-mischa">
+					<name>Mischa Spoliansky</name>
+					<idno type="GND">117485578</idno>
+				</person>
+				<person xml:id="swift-jonathan">
+					<name>Jonathan Swift</name>
+					<idno type="GND">118620193</idno>
+				</person>
+				<person xml:id="lenau-nikolaus">
+					<name>Nikolaus Lenau</name>
+					<idno type="GND">118571508</idno>
+				</person>
+				<person xml:id="villon-francois">
+					<name>François Villon</name>
+					<idno type="GND">118627066</idno>
+				</person>				
+				<person xml:id="weill-kurt">
+					<name>Kurt Weill</name>
+					<idno type="GND">118630202</idno>
+				</person>
+				
+				<person xml:id="wild-john">
+					<name>John Wild</name>
+					<idno type="GND">118552805</idno>
+					<idno type="wikipedia.de">William_Hogarth</idno>
+				</person>
+			</listPerson>
+			<listPerson>
+				<head>Bühnenbildner</head>
+				<person xml:id="neher-caspar">
+					<name>Caspar Neher</name>
+					<idno type="GND">118738356</idno>
+					<date>1897-1962</date>
+				</person>
+			</listPerson>
+			<listPerson>
+				<head>Theaterkritiker</head>
+				<person xml:id="bause-heinz">
+					<name>Heinz Bause</name>
+					<occupation>Theaterkritiker (Münster)</occupation>
+				</person>
+				<person xml:id="kerr-alfred">
+					<name>Alfred Kerr</name>
+					<occupation>Theaterkritiker (Berlin)</occupation>
 				</person>
 				<person xml:id="scherder-ferdinand">
 					<name>Ferdinand Scherder</name>
-					<desc>Theaterkritiker in Wien</desc>
+					<occupation>Theaterkritiker (Wien)</occupation>
 				</person>
-				<person xml:id="weill-kurt">
-					<name>Kurt Weill</name>
-					<idno>https://d-nb.info/gnd/118630202</idno>
-				</person>
-				<person xml:id="hauptmann-elisabeth">
-					<name>Elisabeth Hauptmann</name>
-					<idno>https://d-nb.info/gnd/118546929</idno>
-				</person>
-				<person xml:id="villon-françois">
-					<name>François Villon</name>
-					<idno>https://d-nb.info/gnd/118627066</idno>
-				</person>
-				<person xml:id="kipling-rudyard">
-					<name>Rudyard Kipling</name>
-					<idno>https://d-nb.info/gnd/118562290</idno>
-				</person>
-				<person xml:id="engel-erich">
-					<name>Erich Engel</name>
-					<idno>https://d-nb.info/gnd/118684647</idno>
+				<person xml:id="st--">
+					<name>St.</name>
+					<occupation>Theaterkritiker (Karlsruhe)</occupation>
 				</person>
 			</listPerson>
-			<listPlaces>
-				<place>
-				...
-				</place>
-			</listPlaces>
+			<listPerson>
+				<head>Schauspieler und Mitwirkende</head>
+				<person xml:id="schellenberg-margarete">
+					<name>Margarete Schellenberg</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="hecht-torsten">
+					<name>Torsten Hecht</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="baumbach-felix">
+					<name>Felix Baumbach</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="keilberth-josef">
+					<name>Josef Keilberth</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="hofbach-biftor">
+					<name>Biftor Hofbach</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="kalnbach-eugen">
+					<name>Eugen Kalnbach</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="groetzinger-josef">
+					<name>Josef Grötzinger</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="prueter-friedrich">
+					<name>Friedrich Prüter</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="gemmede-paul">
+					<name>Paul Gemmede</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="jank-lilly">
+					<name>Lilly Jank</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="rademacher-kelly">
+					<name>Kelly Rademacher</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="herz-fritz">
+					<name>Fritz Herz</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="kloeble-alfons">
+					<name>Alfons Kloeble</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="guilbert-noette">
+					<name>Noette Guilbert</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="bertram-elisabeth">
+					<name>Elisabeth Bertram</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="ziegler-hermine">
+					<name>Hermine Ziegler</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="brand-hermann">
+					<name>Hermann Brand</name>
+					<occupation>Theater (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="paulsen-harald">
+					<name>Harald Paulsen</name>
+					<idno type="GND">116065796</idno>
+				</person>
+				<person xml:id="kuehl-kate">
+					<name>Kate Kühl</name>
+					<idno type="GND">118725009</idno>
+				</person>
+				<person xml:id="fuerst-manfred">
+					<name>Manfred Kühl</name>
+					<idno type="GND">116846364</idno>
+				</person>
+				<person xml:id="neher-carola">
+					<name>Carola Neher</name>
+					<idno type="GND">118738348</idno>
+				</person>
+			</listPerson>
 		</body>
 	</text>
 </TEI>
