@@ -41,6 +41,10 @@
 					<name>Francesca cuzzoni</name>
 					<occupation>Sängerin (Barock)</occupation>
 				</person>
+				<person xml:id="david-hanns-walter">
+					<name>Hanns Walter David</name>
+					<idno type="GND">1042905290</idno>
+				</person>
 			<person xml:id="dumas-alexandre">
 				<name>Alexandre Dumas</name>
 				<idno type="GND">118528068</idno>
@@ -120,6 +124,10 @@
 					<idno type="GND">118738356</idno>
 					<date>1897-1962</date>
 				</person>
+				<person xml:id="mueller-traugott">
+					<name>Traugott Müller</name>
+					<idno type="GND">119307251</idno>
+				</person>
 			</listPerson>
 			<listPerson>
 				<head>Theaterkritiker</head>
@@ -138,6 +146,10 @@
 				<person xml:id="st--">
 					<name>St.</name>
 					<occupation>Theaterkritiker (Karlsruhe)</occupation>
+				</person>
+				<person xml:id="ruppel-karl-heinz">
+					<name>Karl Heinz Ruppel>/name>
+					<idno type="GND">116708654</idno>
 				</person>
 			</listPerson>
 			<listPerson>
@@ -226,6 +238,42 @@
 					<name>Carola Neher</name>
 					<idno type="GND">118738348</idno>
 				</person>
+				<person xml:id="lindemann-gustav">
+					<name>Gustav Lindemann</name>
+					<idno type="GND">118728377</idno>
+				</person>
+				<person xml:id="rainer-luis">
+					<name>Luis Rainer</name>
+					<idno type="GND">116325305</idno>
+				</person>
+				<person xml:id="hummel-frieda">
+					<name>Frieda Hummel</hummel>
+					<idno type="GND">11706226X</idno>
+				</personName>
+				<person xml:id="hilbert-georg">
+					<name>Georg Hilbert</name>
+					<idno type="GND">1061358240</idno>
+				</persName>
+					<person xml:id="harald-emmy">
+					<name>Emmy Harald</name>
+					<idno type="GND">1066977437</idno>
+				</persName>
+				<person xml:id="jung-annemarie">
+					<name>Annemarie Jung</name>
+					<idno type="GND">1053262434</idno>
+				</persName>
+				<person xml:id="engelhart-susanne">
+					<name>Susanne Engelhart</name>
+					<idno type="GND">1066978336</idno>
+				</persName>
+				<person xml:id="weber-august">
+					<name>August Weber</name>
+					<idno type="GND">1023919451</idno>
+				</persName>
+				<person xml:id="greid-hermann">
+					<name>Hermann Greid</name>
+					<idno type="GND">116830263</idno>
+				</persName>
 			</listPerson>
 		</body>
 	</text>
