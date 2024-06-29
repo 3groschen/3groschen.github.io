@@ -249,31 +249,31 @@
 				<person xml:id="hummel-frieda">
 					<name>Frieda Hummel</name>
 					<idno type="GND">11706226X</idno>
-				</persName>
+				</person>
 				<person xml:id="hilbert-georg">
 					<name>Georg Hilbert</name>
 					<idno type="GND">1061358240</idno>
-				</persName>
+				</person>
 					<person xml:id="harald-emmy">
 					<name>Emmy Harald</name>
 					<idno type="GND">1066977437</idno>
-				</persName>
+				</person>
 				<person xml:id="jung-annemarie">
 					<name>Annemarie Jung</name>
 					<idno type="GND">1053262434</idno>
-				</persName>
+				</person>
 				<person xml:id="engelhart-susanne">
 					<name>Susanne Engelhart</name>
 					<idno type="GND">1066978336</idno>
-				</persName>
+				</person>
 				<person xml:id="weber-august">
 					<name>August Weber</name>
 					<idno type="GND">1023919451</idno>
-				</persName>
+				</person>
 				<person xml:id="greid-hermann">
 					<name>Hermann Greid</name>
 					<idno type="GND">116830263</idno>
-				</persName>
+				</person>
 			</listPerson>
 		</body>
 	</text>
